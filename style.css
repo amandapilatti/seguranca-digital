@@ -108,38 +108,38 @@ body {
     font-size: 24px;
 }
 
-label{
+label {
     font-size: 20px;
 }
 
-.checkbox{
+.checkbox {
     width: 20px;
     height: 20px;
     cursor: pointer;
 }
 
-.forca{
+.forca {
     height: 30px;
     position: relative;
     bottom: 30px;
 }
 
-.fraca{
+.fraca {
     width: 25%;
-    background-color: #E71B32;
+    background-color: #5100ff;
 }
 
-.media{
+.media {
     width: 50%;
-    background-color: #FAF408;
+    background-color: #8400ff;
 }
 
-.forte{
+.forte {
     width: 100%;
-    background-color: #00FF85;
+    background-color: #b300ff;
 }
 
-.parametro-senha-textos{
+.parametro-senha-textos {
     display: flex;
     justify-content: space-between;
 }
